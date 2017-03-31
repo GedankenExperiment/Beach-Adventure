@@ -1,0 +1,83 @@
+[
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 2.5
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 1.25
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 0.83
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 0.62
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 0.5
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+][
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 2.5
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 1.25
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 0.83
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 0.62
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+{
+	class: es.adventure.beach.entity.AirplaneData
+	modulo: 0.5
+	xi: 0
+	yi: 4.16
+	xf: 13.44
+	yf: 5.5466666
+}
+]

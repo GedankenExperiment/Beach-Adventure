@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="27" height="15" tilewidth="64" tileheight="64" nextobjectid="155">
+ <tileset firstgid="1" name="atileset_gutter" tilewidth="64" tileheight="64" spacing="2" margin="1">
+  <image source="atileset_gutter.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="bkg" width="27" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzjZGBg4BzFDCxAzArEbEDMDsQcNLRLGIhFgFgUiMWAWHwA3E2OPnLdTU3/juJRPIoHNwYAYgUOxQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="27" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4C6gIlMOVKBGRImRY5cu9DNxYapZRcxeKTbJUCCXbjsJxbIk2gXPnEY0MeB9fDIkYvtgNiWThgA5d8YrA==
+  </data>
+ </layer>
+ <objectgroup name="Ground">
+  <object id="2" x="0" y="832" width="1728" height="128"/>
+  <object id="11" x="1713.33" y="0" width="14.6667" height="832"/>
+  <object id="13" x="0" y="0" width="13.3333" height="832"/>
+  <object id="15" x="20" y="2" width="1685.33" height="12"/>
+ </objectgroup>
+ <objectgroup name="Computer">
+  <object id="23" x="896" y="320" width="64" height="64"/>
+  <object id="24" x="1344" y="320" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup name="Dynamic Bricks">
+  <object id="106" x="960" y="768" width="256" height="64"/>
+  <object id="113" x="1344" y="768" width="256" height="64"/>
+  <object id="115" x="1280" y="704" width="128" height="64"/>
+  <object id="116" x="1152" y="704" width="128" height="64"/>
+  <object id="118" x="1024" y="704" width="128" height="64"/>
+  <object id="123" x="1408" y="704" width="128" height="64"/>
+  <object id="124" x="1024" y="576" width="64" height="64"/>
+  <object id="126" x="1024" y="512" width="64" height="64"/>
+  <object id="127" x="1024" y="448" width="64" height="64"/>
+  <object id="128" x="1024" y="384" width="128" height="64"/>
+  <object id="129" x="1472" y="576" width="64" height="64"/>
+  <object id="130" x="1472" y="512" width="64" height="64"/>
+  <object id="132" x="1472" y="448" width="64" height="64"/>
+  <object id="138" x="1408" y="384" width="128" height="64"/>
+  <object id="140" x="1152" y="384" width="128" height="64"/>
+  <object id="141" x="1280" y="384" width="128" height="64"/>
+  <object id="142" x="1216" y="448" width="64" height="64"/>
+  <object id="143" x="1216" y="512" width="64" height="64"/>
+  <object id="144" x="1280" y="512" width="64" height="64"/>
+  <object id="147" x="1216" y="576" width="64" height="64"/>
+  <object id="148" x="1280" y="576" width="64" height="64"/>
+  <object id="149" x="1280" y="448" width="64" height="64"/>
+  <object id="151" x="1024" y="640" width="64" height="64"/>
+  <object id="152" x="1216" y="640" width="64" height="64"/>
+  <object id="153" x="1280" y="640" width="64" height="64"/>
+  <object id="154" x="1472" y="640" width="64" height="64"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,165 @@
+{
+level: 1
+worldTimer: 90
+numberOfDataToUpload: 6
+initPlayer1X: 8.64
+initPlayer1Y: 1.92
+initDrone1X: 4.64
+initDrone1Y:4.92 
+initialVida: 30
+initialPistol8: 4
+initialEscopeta5: 5
+initialMP516: 6
+initialRocket1: 32
+initialLaser1: 100
+airplanesData: [
+	{
+		sp: 3.1
+		modulo: 1.5
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 4.1
+		modulo: 2
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 2.1
+		modulo: 1
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 1.1
+		modulo: 3
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 3.1
+		modulo: 1.5
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 4.5
+		modulo: 1
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 1.7
+		modulo: 1
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 5.1
+		modulo: 1
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 3.1
+		modulo: 1
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+	{
+		sp: 1.1
+		modulo: 1
+		xi: 1.16
+		yi: 5.16
+		xf: 16.11
+		yf: 5.5466666
+	}	
+]
+b2sData: [
+	{
+		sp: 1.2
+		modulo: 3
+		xi: 4.16
+		yi: 4.16
+		xf: 5.44
+		yf: 5.7733333
+	}
+]
+dronesData: [
+	
+	{
+		sp: 3.2
+		patrol: false
+		modulo: 5
+		xi: 4.16
+		yi: 4.16
+		xf: 13.44
+		yf: 2.7733333
+	}
+	{
+		sp: 3.2
+		patrol: false
+		modulo: 5
+		xi: 4.16
+		yi: 4.16
+		xf: 13.44
+		yf: 2.7733333
+	}
+	{
+		sp: 2.2
+		patrol: false
+		modulo: 5
+		xi: 4.16
+		yi: 4.16
+		xf: 13.44
+		yf: 2.7733333
+	}
+]
+nubesData: [
+	{
+		sp: 3.3
+		modulo: 1
+		xi: 2.7733333
+		yi: 4.16
+	}
+]
+intedArtifactsData: [
+	{
+		sp: 4.4
+		intcode: 0
+		xi: 6.72
+		yi: 6.933333
+	}
+	{
+		sp: 4.4
+		intcode: 1
+		xi: 6.72
+		yi: 6.933333
+	}
+	{
+		sp: 4.4
+		intcode: 2
+		xi: 6.72
+		yi: 6.933333
+	}
+]
+}

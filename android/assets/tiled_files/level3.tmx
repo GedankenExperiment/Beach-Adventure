@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="27" height="15" tilewidth="64" tileheight="64" nextobjectid="21">
+ <tileset firstgid="1" name="atileset_gutter" tilewidth="64" tileheight="64" spacing="2" margin="1">
+  <image source="atileset_gutter.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="27" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAqoAwAGVAAB
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="27" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhAYSBWATKFqCxXUpArAxly9PAfH0cWA+PHLnYlo4YAGwnC/8=
+  </data>
+ </layer>
+ <objectgroup name="Ground">
+  <object id="2" x="0" y="832" width="1728" height="128"/>
+  <object id="11" x="1713.33" y="0" width="14.6667" height="832"/>
+  <object id="13" x="0" y="0" width="13.3333" height="832"/>
+  <object id="15" x="20" y="2" width="1685.33" height="12"/>
+  <object id="16" x="1239.39" y="142.424" width="196.97" height="630.303"/>
+  <object id="17" x="1457.58" y="48.4848" width="106.061" height="130.303"/>
+  <object id="18" x="1512.12" y="721.212" width="42.4242" height="90.9091"/>
+ </objectgroup>
+ <objectgroup name="Computer">
+  <object id="1" x="192" y="704" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup name="Nubes"/>
+ <objectgroup name="Trees"/>
+ <objectgroup name="Object Layer 5"/>
+</map>
